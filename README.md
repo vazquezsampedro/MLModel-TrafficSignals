@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="architecture.png" alt="Model Architecture" width="600"/>
+</p>
+
+
 # Machine Learning Model - Traffic Sign Classification
 
 This project implements a Convolutional Neural Network (CNN) using **PyTorch**, developed and trained within the **Databricks environment**, to classify traffic signs. The system is designed as a foundational module for **autonomous vehicle navigation**, enabling real-time interpretation of traffic signs such as speed limits, stop signs, and other critical road indicators.
